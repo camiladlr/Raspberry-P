@@ -1,1 +1,1 @@
-# Raspberry-P
+# Raspberry-Pi A (2013)
